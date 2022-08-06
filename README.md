@@ -8,4 +8,4 @@ VRMファイルからUpperChestを削除します。削除後のモデルは別�
 
 ## 使い方（バイナリ）
 
-リリース版をダウンロードし、変換したいVRMファイルをvrm_upperchest_remover.exeにドラッグ＆ドロップしてください。
+[リリース版](https://github.com/mitake-h/VRMUpperChestRemover/releases)をダウンロードし、変換したいVRMファイルをvrm_upperchest_remover.exeにドラッグ＆ドロップしてください。
